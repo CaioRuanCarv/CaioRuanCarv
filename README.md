@@ -1,25 +1,68 @@
-<div>
-  <a href="https://github.com/CaioRuanCarv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioRuanCarv&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRuanCarv&layout=compact&langs_count=6&theme=radical"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
- 
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
-<div> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/CaioRuanCarv/CaioRuanCarv/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+# Caio Ruan
+
+**Desenvolvedor Backend | Python | APIs REST | Automação**
+
+<p>
+  <a href="https://www.linkedin.com/in/caioruancarv/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 </div>
+
+---
+
+## Sobre mim
+
+Sou desenvolvedor backend com foco em Python, APIs REST e automação.  
+Gosto de criar soluções práticas, integrar sistemas e desenvolver projetos que resolvem problemas reais.
+
+Atualmente estou aprimorando meus conhecimentos em backend, arquitetura de software e segurança da informação.
+
+---
+
+## Tecnologias
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,postgres,mysql,sqlite,git,github,linux" />
+
+</div>
+
+---
+
+## Projetos em destaque
+
+### Monitoramento de APIs
+Sistema para monitorar endpoints, verificar disponibilidade, medir tempo de resposta e registrar histórico de execução.
+
+### Coletor de dados com Google Places API
+Projeto para buscar empresas por segmento e localização, com filtros avançados, prevenção de duplicidade e tratamento de dados.
+
+---
+
+## Estatísticas
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## Atualmente estudando
+
+- Backend com Python
+- APIs REST e integração de sistemas
+- Arquitetura de software
+- Segurança da informação
+
+---
+
+## Contato
+
+- LinkedIn: [caioruancarv](https://www.linkedin.com/in/caioruancarv/)
