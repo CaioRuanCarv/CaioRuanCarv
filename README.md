@@ -5,7 +5,7 @@
 **Full Stack Developer → Automação Industrial & Sistemas Embarcados**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/caioruancarv)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:caiioruancarv@gmail.com)
+[![Email](https://img.shields.io/badge/-caiioruancarv@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=caiioruancarv@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfólio%20PDV-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioRuanCarv/jr-checkout-portfolio)
 
 </div>
