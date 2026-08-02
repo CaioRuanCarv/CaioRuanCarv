@@ -1,65 +1,109 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Caio%20Ruan%20Carvalho%20Vasconcelos&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+# Caio Ruan Carvalho Vasconcelos
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&size=24&center=true&vCenter=true&width=800&lines=Backend+Developer;Python+%7C+APIs+REST+%7C+Automação;Construindo+soluções+eficientes)](https://git.io/typing-svg)
+**Full Stack Developer → Automação Industrial & Sistemas Embarcados**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/caioruancarv)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:caiioruancarv@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfólio%20PDV-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioRuanCarv/jr-checkout-portfolio)
 
 </div>
 
 ---
 
-## Sobre mim
+Formado em ADS, cursando Engenharia Mecatrônica e pós em Eletrônica e Robótica. Trabalho como dev Full Stack e tô estudando pra migrar pra automação industrial e sistemas embarcados.
 
-Sou desenvolvedor backend com foco em Python, trabalhando com APIs REST, automação e integração de sistemas.
+<br>
 
-Tenho interesse em criar soluções bem estruturadas, resolver problemas reais e evoluir constantemente na área de desenvolvimento.
+## 🔧 Projetos
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [JR Checkout — PDV/ERP](https://github.com/CaioRuanCarv/jr-checkout-portfolio)
+
+Sistema de ponto de venda em produção.
+
+`FastAPI` `React` `TypeScript` `PostgreSQL` `Docker`
+
+- 201 endpoints · 33 tabelas · 28 telas
+- Comunicação com dispositivos físicos (leitor, impressora, terminal de pagamento)
+- Integração com SEFAZ, gateway de pagamento, WhatsApp
+- Concorrência entre terminais (SELECT FOR UPDATE)
+- Criptografia de credenciais (Fernet), webhooks HMAC-SHA256
+- RBAC, auditoria automática, Docker multi-stage
+
+</td>
+<td width="50%" valign="top">
+
+### [Buscador de Lojistas](https://github.com/CaioRuanCarv/BuscadorLojistas)
+
+Ferramenta de prospecção por segmento e localização.
+
+`Python` `Pandas` `Streamlit` `PostgreSQL` `APIs REST`
+
+- Coleta automatizada de dados via APIs
+- Tratamento e organização com Pandas
+- Dashboard interativo em Streamlit
+- Filtros por segmento e região
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## ⚡ Stack
+
+<table>
+<tr>
+<td><b>No dia a dia</b></td>
+<td>
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td><b>Estudando</b></td>
+<td>
+
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📍 Trajetória
+Suporte TI (Onnitech) → Backend Python (Tecla T) → Full Stack com sistema em produção (Jacaúna) ↓ Eng. Mecatrônica + Pós em Eletrônica e Robótica ↓ Automação Industrial · Embarcados · IoT
+<br>
+
+## 🎓 Formação
+
+| Curso | Instituição | Status |
+|-------|-------------|--------|
+| Eng. Mecatrônica, Robótica e Automação | UniCesumar | Cursando |
+| Pós em Eng. Eletrônica e Robótica | UNINTER | Cursando |
+| Tecnólogo em ADS | UNIFOR | Concluído |
 
 ---
 
-## Tecnologias
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,nodejs,postgres,mysql,sqlite,git,github,linux" />
-</p>
+*Fortaleza, CE · Disponível pra trabalho remoto e viagens*
 
----
-
-## Projetos em destaque
-
-### 🔹 Sistema de Monitoramento de APIs
-- Verificação de endpoints (UP, DOWN, SLOW)  
-- Medição de tempo de resposta  
-- Histórico de execuções  
-
-### 🔹 Coletor de dados com Google Places API
-- Busca empresas por segmento e região  
-- Filtros avançados e tratamento de dados  
-- Remoção de duplicidade  
-
----
-
-## Estatísticas
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=CaioRuanCarv&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CaioRuanCarv&layout=compact&theme=tokyonight)
-
----
-
-## Sequência de contribuições
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=CaioRuanCarv&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## Contato
-
-<p>
-  <a href="https://www.linkedin.com/in/caioruancarv/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer"/>
+</div>
